@@ -12,8 +12,7 @@
   "require": {
     "php": ">=7.1.0",
     "ext-bcmath": "*",
-    "ext-json": "*",
-    "furqansiddiqui/http-client": "dev-master"
+    "ext-json": "*"
   },
   "autoload": {
     "psr-4": {
